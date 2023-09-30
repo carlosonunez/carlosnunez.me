@@ -1,0 +1,16 @@
+.link-resume {
+  background: rgb(75, 0, 130);
+  color: white;
+}
+
+.link-talks {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.link-courses {
+  background: linear-gradient(90deg, #FDBB2D 0%, #3A1C71 100%);
+}
+
+.link-blog {
+  background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+}

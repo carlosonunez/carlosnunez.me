@@ -1,0 +1,13 @@
+[author]
+name = "Carlos Nunez"
+headline = "DevOps/SRE/Cloud Native Consultant, Software Engineer and Kubernetes Wrangler."
+image = "me_20230605.jpg"
+links = [
+  { github = "https://github.carlosonunez.me" },
+  { linkedin = "https://linkedin.carlosnunez.me" },
+  { resume = { href = "https://resume.carlosnunez.me", text = "Consulting Resume" } },
+  { resume = { href = "https://eng.resume.carlosnunez.me", text = "Engineering Resume" } },
+  { talks = { href = "/talks", text = "Talks" } },
+  { courses = { text = "My LinkedIn Learning Courses", href = "https://www.linkedin.com/learning/instructors/carlos-nunez" } },
+  { blog = { text = "Blog", href = "https://blog.carlosnunez.me" } }
+]
