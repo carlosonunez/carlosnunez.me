@@ -4,6 +4,8 @@ title: Talks
 
 These are all of the talks I've given. Enjoy!
 
+- **2023**. ***Agile Mentors Podcast***: [DevOps and Agile with Brian
+  Milner](http://mountaingoatsoftware.com/agile/podcast/71-the-world-of-devops-with-carlos-nunez0
 - **2023**. ***Agile 2023 @ Orlando, FL***: [Agile Essentials: DevOps and Delivery](https://assets.swoogo.com/uploads/2764046-64bee2130df92.pdf)
 -  **2021**. ***DockerCon Live 2021***: [Panelist on Easy CI with Docker (free login required)](https://docker.events.cube365.net/dockercon-live/2021/content/Videos/YGDKB2wnaiRBh9mjt)
 -  **2020**. ***Contino CloudFest***: [Boost Your Apps with an SRE Approach to Development](https://www.youtube.com/watch?v=buqz_4LK57c)
