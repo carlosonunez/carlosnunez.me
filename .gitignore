@@ -22,4 +22,5 @@ backend.tfvars
 site/*
 themes/*
 config.toml
+blog-gen
 blog-gen/
